@@ -21,8 +21,8 @@
 
 ## Usage
 
-Heroku URL: https://peaceful-anchorage-00409.herokuapp.com/
-Test Video: https://drive.google.com/file/d/1GqbVw-FGVPFdEizdh0VpYrNF7Aq9jmxk/view?usp=sharing 
+- Heroku URL: https://peaceful-anchorage-00409.herokuapp.com/
+- Test Video: https://drive.google.com/file/d/1GqbVw-FGVPFdEizdh0VpYrNF7Aq9jmxk/view?usp=sharing 
 
 ![alt Website Screenshot](./client/src/images/Test.JPG)
 
